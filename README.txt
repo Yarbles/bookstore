@@ -1,11 +1,12 @@
 ————— REID THE BEST BOOKS ————
 
-Description: A mock-website for a Booksite in Drupal
+Description: A mock-website for a bookstore in Drupal
 Copyright 2015, Reid Baldwin
 License: Creative Commons
 Framework Used: Drupal 7.37
+Theme used: Bootstrap
 
-Directions: Import the compressed database ‘bookstore’ provided in the bookstore/sites folder.
+Directions: Import the compressed database ‘bookstore.sql.gz’ provided in the bookstore/sites/db-backup folder.
 
 Set up a localhost at port 8888. Open a browser to that address and when prompted by the Drupal interface, set your database to the following configuration:
 
@@ -21,6 +22,9 @@ Port: 8889    <——Important
 Site Maintenance Account:
 Username: Reid
 password: prophet1
+
+
+
 
 
 
