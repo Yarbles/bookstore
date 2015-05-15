@@ -1,5 +1,5 @@
 name = Site Configuration
-description = A feature that allows the user to configure the site's name, slogan, theme, frontpagee URL
+description = A feature that allows the user to configure the site's name, slogan, theme, frontpage URL
 core = 7.x
 package = Features
 version = 7.x-1.0
