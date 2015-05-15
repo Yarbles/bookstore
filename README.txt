@@ -1,5 +1,6 @@
 ————— REID THE BEST BOOKS ————
 
+See it in action (or inaction, depending) at: reid-the-best-books.pantheon.io
 Description: A mock-website for a bookstore in Drupal
 Copyright 2015, Reid Baldwin
 License: Creative Commons
