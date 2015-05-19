@@ -1,3 +1,0 @@
-[submodule "sites/all/modules/hello"]
-	path = sites/all/modules/hello_user
-	url = https://github.com/Yarbles/hello.git
